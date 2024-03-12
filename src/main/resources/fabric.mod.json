@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "hellofabric",
+	"version": "${version}",
+	"name": "HelloFabric",
+	"description": "This is a learning project for fabric!",
+	"authors": [
+		"Aimer Neige"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/hellofabric/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "com.aimerneige.hellofabric.HelloFabricMod"
+		],
+        "client": [
+          "com.aimerneige.hellofabric.HelloFabricModClient"
+        ],
+		"fabric-datagen": [
+			"com.aimerneige.hellofabric.HelloFabricDataGenerator"
+		]
+	},
+	"mixins": [
+		"hellofabric.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.7",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
