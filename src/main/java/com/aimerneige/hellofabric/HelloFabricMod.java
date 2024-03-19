@@ -1,5 +1,7 @@
 package com.aimerneige.hellofabric;
 
+import com.aimerneige.hellofabric.item.ModItemGroups;
+import com.aimerneige.hellofabric.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +13,7 @@ public class HelloFabricMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Hello Fabric world!");
+        ModItemGroups.registerItemGroups();
+        ModItems.registerModItems();
 	}
 }
