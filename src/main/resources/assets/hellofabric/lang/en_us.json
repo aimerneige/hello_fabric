@@ -1,5 +1,7 @@
 {
   "item.hellofabric.ruby": "Ruby",
   "item.hellofabric.raw_ruby": "Raw Ruby",
-  "itemgroup.ruby": "Ruby Group"
+  "itemgroup.ruby": "Ruby Group",
+  "block.hellofabric.ruby_block": "Block of Ruby",
+  "block.hellofabric.raw_ruby_block": "Block of Raw Ruby"
 }

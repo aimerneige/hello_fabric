@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "hellofabric:block/raw_ruby_block"
+    }
+  }
+}

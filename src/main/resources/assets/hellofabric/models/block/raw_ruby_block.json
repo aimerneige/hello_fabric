@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "hellofabric:block/raw_ruby_block"
+  }
+}

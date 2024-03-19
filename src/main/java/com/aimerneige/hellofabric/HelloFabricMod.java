@@ -1,5 +1,6 @@
 package com.aimerneige.hellofabric;
 
+import com.aimerneige.hellofabric.block.ModBlocks;
 import com.aimerneige.hellofabric.item.ModItemGroups;
 import com.aimerneige.hellofabric.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -15,5 +16,6 @@ public class HelloFabricMod implements ModInitializer {
 	public void onInitialize() {
         ModItemGroups.registerItemGroups();
         ModItems.registerModItems();
+        ModBlocks.registerModBlocks();
 	}
 }
