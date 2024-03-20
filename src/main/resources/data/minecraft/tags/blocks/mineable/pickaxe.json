@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "hellofabric:ruby_block",
+    "hellofabric:raw_ruby_block"
+  ]
+}
