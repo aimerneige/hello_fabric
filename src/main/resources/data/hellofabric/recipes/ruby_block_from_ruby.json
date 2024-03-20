@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "hellofabric:ruby"
+    }
+  },
+  "result": {
+    "item": "hellofabric:ruby_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "hellofabric:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "hellofabric:ruby",
+    "count": 9
+  }
+}
