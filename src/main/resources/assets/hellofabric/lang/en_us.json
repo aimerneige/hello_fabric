@@ -3,5 +3,9 @@
   "item.hellofabric.raw_ruby": "Raw Ruby",
   "itemgroup.ruby": "Ruby Group",
   "block.hellofabric.ruby_block": "Block of Ruby",
-  "block.hellofabric.raw_ruby_block": "Block of Raw Ruby"
+  "block.hellofabric.raw_ruby_block": "Block of Raw Ruby",
+  "block.hellofabric.ruby_ore": "Ruby Ore",
+  "block.hellofabric.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.hellofabric.nether_ruby_ore": "Nether Ruby Ore",
+  "block.hellofabric.end_stone_ruby_ore": "End Stone Ruby Ore"
 }

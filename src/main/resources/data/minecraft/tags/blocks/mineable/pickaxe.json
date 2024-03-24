@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "hellofabric:ruby_block",
-    "hellofabric:raw_ruby_block"
+    "hellofabric:raw_ruby_block",
+    "hellofabric:ruby_ore",
+    "hellofabric:deepslate_ruby_ore",
+    "hellofabric:nether_ruby_ore",
+    "hellofabric:end_stone_ruby_ore"
   ]
 }
