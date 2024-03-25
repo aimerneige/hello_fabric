@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "hellofabric:block/sound_block"
+    }
+  }
+}
