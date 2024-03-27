@@ -10,5 +10,7 @@
   "block.hellofabric.end_stone_ruby_ore": "End Stone Ruby Ore",
   "block.hellofabric.metal_detector": "Metal Detector",
   "item.tutorialmod.tomato": "Tomato",
-  "item.tutorialmod.coal_briquette": "Coal Briquette"
+  "item.tutorialmod.coal_briquette": "Coal Briquette",
+  "tooltip.tutorialmod.metal_detector.tooltip": "Finds valuables underground",
+  "tooltip.hellofabric.sound_block.tooltip": "Makes a sweet when right-clicked"
 }
